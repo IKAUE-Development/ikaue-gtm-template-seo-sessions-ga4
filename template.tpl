@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "SEO Sessions (for GA4)",
+  "categories": ["ANALYTICS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
